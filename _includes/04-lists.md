@@ -1,4 +1,5 @@
-- Plants 🌱
-- Sports Bikes
-- Adventures
-- **Learning** _something New_! 🎉
+##### Skills #####
+- Designing
+- Content Writibg
+- Team Work
+- Enthusiasm to **Learn** _something New_!
