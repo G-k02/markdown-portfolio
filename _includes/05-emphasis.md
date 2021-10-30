@@ -1,4 +1,5 @@
 **Programming languages**
 - C
 - Python
-_More pogramming languages to be learnt soon!
+- 
+_More programming languages to be learnt soon!_
