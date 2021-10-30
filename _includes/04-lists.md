@@ -1,4 +1,4 @@
 - Plants 🌱
 - Sports Bikes
 - Adventures
-- Learning something New! 🎉
+- **Learning** _something New_! 🎉
